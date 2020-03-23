@@ -14,7 +14,7 @@ For example, on Linux or Cygwin:
 gcc main.c rectangle.c -o rectangle
 ./rectangle
 ```
-# Author, license
+## Author, license
 Alan Tseng
 
 2020
